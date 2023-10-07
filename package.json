@@ -30,6 +30,9 @@
   "devDependencies": {
     "nodemon": "^2.0.19"
   },
+  "Dependencies": {
+    "nodemon": "^2.0.19"
+  },
   "engines": {
     "node": "18.6.0"
   },
